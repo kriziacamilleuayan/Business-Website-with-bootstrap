@@ -70,6 +70,14 @@ p{
 	left: 450px;
 }
 
+.text-gray{
+	color: lightgray;
+	word-spacing: 5px;
+	text-decoration: none;
+	padding-left: 5px;
+	padding-right: 5px; 
+}
+
 .btn-black:hover{
 	color: yellow;
 }
